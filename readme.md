@@ -1,7 +1,7 @@
 <h1 align="center">Netflix 2.0 - DIO</h1>
 
 <p align="center">Cópia da página inicial do Netflix</p>
-<img src="image/pg-inicial.png">
+<img src="public/image/pg-inicial.png">
 
 <h1 align="center">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">🔗 JavaScript</a>
